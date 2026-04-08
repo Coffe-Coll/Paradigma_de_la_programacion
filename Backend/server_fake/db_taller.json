@@ -1,0 +1,108 @@
+{
+  "Telefonos": [
+    {
+      "firts_name": "Alister",
+      "last_name": "Edgell",
+      "email_address": "aedgell0@mlb.com",
+      "ip_address": "32.227.21.40",
+      "movile_device": "vivo",
+      "movile_device_os": "Android 11, OriginOS 1.0",
+      "movile_release": 2021,
+      "id": "e380"
+    },
+    {
+      "firts_name": "nombre cambiado",
+      "last_name": "Kettlestringes",
+      "email_address": "gmail cambiado",
+      "ip_address": "136.10.219.196",
+      "movile_device": "Nokia",
+      "movile_device_os": "Feature phone",
+      "movile_release": 2013,
+      "id": "4eee"
+    },
+    {
+      "firts_name": "Jillayne",
+      "last_name": "Velez (apellido cambiado)",
+      "email_address": "jgrinov2@stumbleupon.com",
+      "ip_address": "123.456.789 (ip cambuiado)",
+      "movile_device": "Xiaomi",
+      "movile_device_os": "Proprietary OS",
+      "movile_release": 2020,
+      "id": "882d"
+    },
+    {
+      "firts_name": "Owen",
+      "last_name": "Beadle",
+      "email_address": "obeadle5@thetimes.co.uk",
+      "ip_address": "172.99.185.40",
+      "movile_device": "Infinix",
+      "movile_device_os": "Android 10",
+      "movile_release": 2020,
+      "id": "d873"
+    },
+    {
+      "firts_name": "Nesta",
+      "last_name": "Kaspar",
+      "email_address": "nkaspar6@noaa.gov",
+      "ip_address": "114.116.162.251",
+      "movile_device": "Lava",
+      "movile_device_os": "Android 7.0",
+      "movile_release": 2017,
+      "id": "482e"
+    },
+    {
+      "firts_name": "Tyrus",
+      "last_name": "Iglesias",
+      "email_address": "tiglesias7@cornell.edu",
+      "ip_address": "232.177.230.36",
+      "movile_device": "Celkon",
+      "movile_device_os": "Feature phone",
+      "movile_release": 2014,
+      "id": "1f6c"
+    },
+    {
+      "firts_name": "Saw",
+      "last_name": "Ghidotti",
+      "email_address": "sghidotti8@zimbio.com",
+      "ip_address": "159.112.174.222",
+      "movile_device": "Nokia",
+      "movile_device_os": "Symbian^3, up to Nokia Belle OS",
+      "movile_release": 2011,
+      "id": "00bf"
+    },
+    {
+      "id": "a4f6"
+    },
+    {
+      "id": "dc16",
+      "firts_name": "David",
+      "last_name": "Coll",
+      "email_address": "loro24@gmlb.com",
+      "ip_address": "22.217.11.30",
+      "movile_device": "TECNO",
+      "movile_device_os": "Android 13, OriginOS 2.0",
+      "movile_release": 2024
+    },
+    {
+      "id": "eh90",
+      "firts_name": "Erick",
+      "last_name": "De La Hoz",
+      "email_address": "erick53@gmlb.com",
+      "ip_address": "43.237.21.40",
+      "movile_device": "Haweii",
+      "movile_device_os": "Android 13, OriginOS 2.0",
+      "movile_release": 2022
+    },
+    {
+      "id": "mg36",
+      "firts_name": "Monica",
+      "last_name": "Garcia",
+      "email_address": "monicagar36@gmlb.com",
+      "ip_address": "53.247.31.50",
+      "movile_device": "Redmi",
+      "movile_device_os": "Android 14, OriginOS 2.0",
+      "movile_release": 2023
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
